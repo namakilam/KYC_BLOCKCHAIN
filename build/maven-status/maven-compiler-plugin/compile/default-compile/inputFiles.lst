@@ -1,0 +1,6 @@
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/pojos/Customer.java
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/utils/StringUtils.java
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/enums/MaritalStatus.java
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/KYChaincode.java
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/pojos/Address.java
+/Users/namakilam/workspace/go/src/github.com/hyperledger/fabric/examples/chaincode/java/kyc/src/main/java/exceptions/InvalidCustomerInfoException.java
