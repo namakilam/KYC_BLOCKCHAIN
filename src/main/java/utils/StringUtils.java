@@ -1,7 +1,5 @@
 package utils;
 
-import javafx.beans.binding.BooleanExpression;
-
 /**
  * Created by namakilam on 25/07/17.
  */
